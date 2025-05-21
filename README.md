@@ -1,9 +1,9 @@
 ---
 title: Engelsiz
-emoji: 📚
-colorFrom: indigo
-colorTo: green
+emoji: 🔥
+colorFrom: purple
+colorTo: red
 sdk: docker
 pinned: false
-short_description: Engelsiz
+short_description: No Vpn
 ---
