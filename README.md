@@ -1,9 +1,9 @@
 ---
-title: Engelsiz
-emoji: 🔥
-colorFrom: purple
-colorTo: red
+title: Premiumcreativeuser
+emoji: 😻
+colorFrom: blue
+colorTo: yellow
 sdk: docker
 pinned: false
-short_description: No Vpn
 ---
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
